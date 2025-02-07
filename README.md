@@ -1,21 +1,22 @@
 <div align="center">
-  <h1 style="font-family: 'Hack';">WELCOME BRO</h1>
+  <h1 style="font-family: 'Hack';">⫘⫘⫘⫘⫘⫘ WELCOME 👁‍🗨⫘⫘⫘⫘⫘⫘</h1>
+  <h1 style="font-family: 'Hack';">DEVELOPER & REVERSE ENGINEER</h1>
   <img src="assets/reaper.gif" alt="GIF">
 </div>
 
+▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒
+▒▒█▒▒▒▄██████████▄▒▒▒▒
+▒█▐▒▒▒████████████▒▒▒▒
+▒▌▐▒▒██▄▀██████▀▄██▒▒▒
+▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒
+▐┼▐▒▒██████████████▒▒▒
+▐▄▐████─▀▐▐▀█─█─▌▐██▄▒
+▒▒█████──HELSING──▐███
+▒▒█▀▀██▄█─▄───▐─▄███▀▒
+▒▒█▒▒███████▄██████▒▒▒
+▒▒▒▒▒██████████████▒▒▒
+▒▒▒▒▒█████████▐▌██▌▒▒▒
+▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒
+▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒
 <div style="display: flex; justify-content: center; align-items: center;">
-  <pre style="text-align: left; margin-right: 20px;">
-    ____________________
-    |                    |
-    |                    |
-    |                    |
-    |____________________|
-  </pre>
-  <pre style="text-align: right; margin-left: 20px;">
-    ____________________
-    |                    |
-    |                    |
-    |                    |
-    |____________________|
-  </pre>
 </div>
