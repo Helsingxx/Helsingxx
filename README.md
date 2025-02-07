@@ -49,12 +49,12 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Helsingxx/WindowsPrivilegeEscalation">
+        <a href="https://github.com/Helsingxx/Golang">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=Golang&theme=dark" alt="Repository 3"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Helsingxx/Golang">
+        <a href="https://github.com/Helsingxx/WindowsPrivilegeEscalation">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=WindowsPrivilegeEscalation&theme=dark" alt="Repository 4"/>
         </a>
       </td>
