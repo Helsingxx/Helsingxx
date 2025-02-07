@@ -1,6 +1,6 @@
 <div align="center">
-  <p style="font-size: 100px">⫘⫘⫘⫘⫘⫘⫘⫘ WELCOME 👁‍🗨⫘⫘⫘⫘⫘⫘⫘⫘</p>
-  <p style="font-size: 50px">DEVELOPER & REVERSE ENGINEER</p>
+  <div>⫘⫘⫘⫘⫘⫘⫘⫘ 👁‍🗨 WELCOME 👁‍🗨⫘⫘⫘⫘⫘⫘⫘⫘</div>
+  <div>This is Helsing. Developer & Reverse Engineer</div>
   <img src="assets/reaper.gif" alt="GIF">
 </div>
 
