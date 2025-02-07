@@ -19,10 +19,10 @@
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helsingxx&layout=compact" alt="Top Languages" style="display: inline-block; vertical-align: middle;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helsingxx&layout=compact&theme=dark" alt="Top Languages" style="display: inline-block; vertical-align: middle;"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Helsingxx" alt="Helsingxx's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Helsingxx&theme=dark" alt="Helsingxx's Streak Stats" />
 </div>
 
 ## Top Repositories
@@ -32,24 +32,24 @@
     <tr>
       <td>
         <a href="https://github.com/Helsingxx/repository1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=Minishell" alt="Repository 1"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=Minishell&theme=dark" alt="Repository 1"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/Helsingxx/repository2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=Maldev" alt="Repository 2"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=Maldev&theme=dark" alt="Repository 2"/>
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/Helsingxx/repository3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=Golang" alt="Repository 3"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=Golang&theme=dark" alt="Repository 3"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/Helsingxx/repository4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=WindowsPrivilegeEscalation" alt="Repository 4"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=WindowsPrivilegeEscalation&theme=dark" alt="Repository 4"/>
         </a>
       </td>
     </tr>
