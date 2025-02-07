@@ -1,3 +1,3 @@
 # Welcome to my Profile
 
-![GET PWNED](reaper.gif)
+![GET PWNED](assets/reaper.gif)
