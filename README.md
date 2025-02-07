@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-family: 'Courier New', Courier, monospace;">WELCOME BRO</h1>
+  <h1 style="font-family: 'Hack';">WELCOME BRO</h1>
   <img src="assets/reaper.gif" alt="GIF">
 </div>
 
