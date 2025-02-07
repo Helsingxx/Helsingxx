@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 style="font-family: 'Hack';">⫘⫘⫘⫘⫘⫘ WELCOME 👁‍🗨⫘⫘⫘⫘⫘⫘</h1>
-  <h1 style="font-family: 'Hack';">DEVELOPER & REVERSE ENGINEER</h1>
+  <p style="font-family: 'Hack';">⫘⫘⫘⫘⫘⫘⫘⫘ WELCOME 👁‍🗨⫘⫘⫘⫘⫘⫘⫘⫘</p>
+  <p style="font-family: 'Hack';">DEVELOPER & REVERSE ENGINEER</p>
   <img src="assets/reaper.gif" alt="GIF">
 </div>
 
