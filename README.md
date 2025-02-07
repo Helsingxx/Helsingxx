@@ -1,10 +1,10 @@
 ## About Me
 
-- I'm 21 years old. Im a Cyber Security and Data Analysis student, mostly self taught 8-);
+- I'm 21 years old. Im a Cyber Security and Data Analysis student, mostly self taught 8-).
 
-- I currently am going through training in ALX Africa;
+- I currently am going through training in ALX Africa.
 
-- I'm mainly interested in Red Teaming and reversing;
+- I'm mainly interested in Red Teaming and reversing.
 
 - I mainly work using C++, Python or Go. I mainly develop desktop apps.
 
