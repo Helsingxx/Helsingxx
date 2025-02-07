@@ -1,6 +1,6 @@
 <center>
 <h1>YO BITCH</h1>
-<img src="path/to/your-image.gif" alt="GIF">
+<img src="assets/reaper.gif" alt="GIF">
 </center>
 
 <pre style="text-align: left;">
