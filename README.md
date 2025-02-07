@@ -1,28 +1,10 @@
-<div align="center">
-  <div>
-__        __         _                                         
- \ \      / /   ___  | |   ___    ___    ___    _ __     ___    
-  \ \ /\ / /   / _ \ | |  / __|  / _ \  / _ \  | '_ \   / _ \   
-   \ V  V /   |  __/ | | | (__  |  __/ | (_) | | | | | |  __/   
-    \_/\_/     \___| |_|  \___|  \___|  \___/  |_| |_|  \___| 
-  </div>
-  <div>This is Helsing. Developer & Reverse Engineer</div>
-  <img src="assets/reaper.gif" alt="GIF">
-</div>
+ # It's me Helsing!
+  
+  
+I'm a Cyber Security and Data Analysis student!
+I'm mostly self-taught, but I currently am going through training through ALX Africa.
+## Top Langs & Repositories
 
-▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒
-▒▒█▒▒▒▄██████████▄▒▒▒▒
-▒█▐▒▒▒████████████▒▒▒▒
-▒▌▐▒▒██▄▀██████▀▄██▒▒▒
-▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒
-▐┼▐▒▒██████████████▒▒▒
-▐▄▐████─▀▐▐▀█─█─▌▐██▄▒
-▒▒█████───────────▐███
-▒▒█▀▀██▄█─▄───▐─▄███▀▒
-▒▒█▒▒███████▄██████▒▒▒
-▒▒▒▒▒██████████████▒▒▒
-▒▒▒▒▒█████████▐▌██▌▒▒▒
-▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒
-▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒
-<div style="display: flex; justify-content: center; align-items: center;">
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helsingxx&layout=compact)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Helsingxx&show_icons=true)
