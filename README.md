@@ -28,7 +28,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helsingxx&layout=compact&theme=dark" alt="Top Languages" style="display: inline-block; vertical-align: middle;"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Helsingxx&theme=dark" alt="Helsingxx's Streak Stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=Helsingxx" alt="Helsingxx's GitHub Trophies" />
 </div>
 
 ## Top Repositories
@@ -37,24 +37,24 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/Helsingxx/repository1">
+        <a href="https://github.com/Helsingxx/Minishell">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=Minishell&theme=dark" alt="Repository 1"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Helsingxx/repository2">
+        <a href="https://github.com/Helsingxx/Maldev">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=Maldev&theme=dark" alt="Repository 2"/>
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Helsingxx/repository3">
+        <a href="https://github.com/Helsingxx/WindowsPrivilegeEscalation">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=Golang&theme=dark" alt="Repository 3"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Helsingxx/repository4">
+        <a href="https://github.com/Helsingxx/Golang">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Helsingxx&repo=WindowsPrivilegeEscalation&theme=dark" alt="Repository 4"/>
         </a>
       </td>
