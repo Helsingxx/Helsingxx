@@ -1,6 +1,6 @@
 ## About Me
 
-- I'm a Cyber Security and Data Analysis student! Mostly self taught 8-);
+- I'm 21 years old. Im a Cyber Security and Data Analysis student, mostly self taught 8-);
 
 - I currently am going through training in ALX Africa;
 
