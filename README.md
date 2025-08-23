@@ -7,20 +7,6 @@
                          |_____|\__| |___/    |_| |_| |_|\___|    |_|  |_|\___|_|___/_|_| |_|\__, (_)
                                                                                               __/ |  
                                                                                              |___/   </pre>
-  
-## About Me
-
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <ul>
-      <li>I'm 21 years old. I'm a Cyber Security and Data Science student, mostly self-taught 8-). ✍🏻 </li>
-      <li>I currently am going through training in ALX. 🧗‍♂️ </li>
-      <li>I'm mainly interested in Red Teaming and reversing. 🥷🏻 </li>
-      <li>I mainly work using C++, Python, or Go. I mainly develop desktop apps. 💻 </li>
-      <li>Aside from technology, I also dig into philosophical and psychological questions a lot! 💭</li>
-    </ul>
-  </div>
-</div>
 
 ## GitHub Stats
 
