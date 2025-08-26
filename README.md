@@ -8,14 +8,6 @@
                                                                                               __/ |  
                                                                                              |___/   </pre>
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helsingxx&layout=compact&theme=dark" alt="Top Languages" style="display: inline-block; vertical-align: middle;"/>
-</div>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Helsingxx" alt="Helsingxx's GitHub Trophies" />
-</div>
 
 ## Top Repositories
 
